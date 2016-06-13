@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\PublishedMSData</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/03/2016 13:57:59</publishTime>
+    </File>
+    <File Include="bin/MSData.dll">
+      <publishTime>05/10/2016 11:49:37</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>10/02/2015 18:05:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/03/2016 13:57:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/03/2016 13:57:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/03/2016 13:57:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/03/2016 13:57:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/03/2016 13:57:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/03/2016 13:57:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/03/2016 13:57:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/03/2016 13:57:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/03/2016 13:57:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/03/2016 13:57:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/03/2016 13:57:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/03/2016 13:57:58</publishTime>
+    </File>
+    <File Include="INoAjaxService.cs">
+      <publishTime>05/03/2016 14:35:02</publishTime>
+    </File>
+    <File Include="NoAjaxService.svc">
+      <publishTime>05/03/2016 13:54:02</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/03/2016 13:58:00</publishTime>
+    </File>
+    <File Include="Service.svc">
+      <publishTime>01/04/2016 13:22:30</publishTime>
+    </File>
+    <File Include="TestService.svc">
+      <publishTime>05/05/2016 15:53:01</publishTime>
+    </File>
+    <File Include="Vending.svc">
+      <publishTime>01/04/2016 13:22:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/10/2016 11:49:37</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

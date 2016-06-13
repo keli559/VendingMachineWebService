@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="MSData.NoAjaxService" CodeBehind="NoAjaxService.svc.cs" %>

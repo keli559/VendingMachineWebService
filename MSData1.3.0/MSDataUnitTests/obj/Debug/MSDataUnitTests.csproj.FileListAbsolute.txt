@@ -1,0 +1,18 @@
+C:\Users\Odin Cmopany\Documents\Visual Studio 2013\Projects\MSData\MSDataUnitTests\bin\MSDataUnitTests.dll.config
+C:\Users\Odin Cmopany\Documents\Visual Studio 2013\Projects\MSData\MSDataUnitTests\bin\MSDataUnitTests.dll
+C:\Users\Odin Cmopany\Documents\Visual Studio 2013\Projects\MSData\MSDataUnitTests\bin\MSDataUnitTests.pdb
+C:\Users\Odin Cmopany\Documents\Visual Studio 2013\Projects\MSData\MSDataUnitTests\bin\MSData.dll
+C:\Users\Odin Cmopany\Documents\Visual Studio 2013\Projects\MSData\MSDataUnitTests\bin\MSData.pdb
+C:\Users\Odin Cmopany\Documents\Visual Studio 2013\Projects\MSData\MSDataUnitTests\obj\Debug\MSDataUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Odin Cmopany\Documents\Visual Studio 2013\Projects\MSData\MSDataUnitTests\obj\Debug\MSDataUnitTests.dll
+C:\Users\Odin Cmopany\Documents\Visual Studio 2013\Projects\MSData\MSDataUnitTests\obj\Debug\MSDataUnitTests.pdb
+C:\Users\Support\Desktop\MSData\MSDataUnitTests\bin\MSDataUnitTests.dll.config
+C:\Users\Support\Desktop\MSData\MSDataUnitTests\bin\MSDataUnitTests.dll
+C:\Users\Support\Desktop\MSData\MSDataUnitTests\bin\MSDataUnitTests.pdb
+C:\Users\Support\Desktop\MSData\MSDataUnitTests\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Support\Desktop\MSData\MSDataUnitTests\bin\MSData.dll
+C:\Users\Support\Desktop\MSData\MSDataUnitTests\bin\MySql.Data.dll
+C:\Users\Support\Desktop\MSData\MSDataUnitTests\bin\MSData.pdb
+C:\Users\Support\Desktop\MSData\MSDataUnitTests\obj\Debug\MSDataUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Support\Desktop\MSData\MSDataUnitTests\obj\Debug\MSDataUnitTests.dll
+C:\Users\Support\Desktop\MSData\MSDataUnitTests\obj\Debug\MSDataUnitTests.pdb

@@ -1,0 +1,27 @@
+c:\users\odin cmopany\documents\visual studio 2013\Projects\MSData\MSData\bin\MSData.dll.config
+c:\users\odin cmopany\documents\visual studio 2013\Projects\MSData\MSData\bin\MSData.dll
+c:\users\odin cmopany\documents\visual studio 2013\Projects\MSData\MSData\bin\MSData.pdb
+c:\users\odin cmopany\documents\visual studio 2013\Projects\MSData\MSData\obj\Debug\MSData.dll
+c:\users\odin cmopany\documents\visual studio 2013\Projects\MSData\MSData\obj\Debug\MSData.pdb
+C:\Users\Odin Cmopany\Documents\Visual Studio 2013\Projects\MSData\MSData\obj\Debug\MSData.csprojResolveAssemblyReference.cache
+C:\Users\Support\Desktop\MSData\MSData\bin\MSData.dll.config
+C:\Users\Support\Desktop\MSData\MSData\bin\MSData.dll
+C:\Users\Support\Desktop\MSData\MSData\bin\MSData.pdb
+C:\Users\Support\Desktop\MSData\MSData\bin\MySql.Data.dll
+C:\Users\Support\Desktop\MSData\MSData\obj\Debug\MSData.csprojResolveAssemblyReference.cache
+C:\Users\Support\Desktop\MSData\MSData\obj\Debug\MSData.dll
+C:\Users\Support\Desktop\MSData\MSData\obj\Debug\MSData.pdb
+C:\Users\Support\Desktop\MSData\MSData\bin\roslyn\csc.exe
+C:\Users\Support\Desktop\MSData\MSData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Support\Desktop\MSData\MSData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Support\Desktop\MSData\MSData\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Support\Desktop\MSData\MSData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Support\Desktop\MSData\MSData\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Support\Desktop\MSData\MSData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Support\Desktop\MSData\MSData\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Support\Desktop\MSData\MSData\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Support\Desktop\MSData\MSData\bin\roslyn\vbc.exe
+C:\Users\Support\Desktop\MSData\MSData\bin\roslyn\VBCSCompiler.exe
+C:\Users\Support\Desktop\MSData\MSData\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Support\Desktop\MSData\MSData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Support\Desktop\MSData\MSData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
